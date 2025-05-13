@@ -1,0 +1,19 @@
+body {
+    color: pink;
+    line-height: 40px;
+    font-family:fantasy;
+    background-color: hotpink;
+}
+#cunty {
+    height: 500px;
+    width: 500px;
+    border-style:dotted;
+    border-color:pink;
+    border: 30px;
+    padding: 10px;
+
+}
+
+#Lala {
+    margin-left: 350px;
+}
